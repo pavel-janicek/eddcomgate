@@ -1,0 +1,6 @@
+{
+    "require": {
+        "ondrs/comgate": "^0.1.3",
+        "yahnis-elsts/plugin-update-checker": "^4.9"
+    }
+}
